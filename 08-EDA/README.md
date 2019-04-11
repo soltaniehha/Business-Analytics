@@ -1,0 +1,1 @@
+Acknowledgmen: The content of notebook 01-Exploratory-Analysis-with-Seaborn.ipynb comes primarily from [a Kaggle notebook](https://www.kaggle.com/jsaguiar/exploratory-analysis-with-seaborn) by *Aguiar*.
