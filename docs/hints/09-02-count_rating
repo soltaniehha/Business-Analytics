@@ -1,0 +1,1 @@
+count_rating = ratings2.groupby('movie_title').agg({'movie_id':'count'})
