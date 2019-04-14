@@ -1,0 +1,1 @@
+ratings2 = ratings.merge(movies)
