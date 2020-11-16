@@ -1,0 +1,1 @@
+df.pivot_table(values='MonthlyCharges', index=['SeniorCitizen','Partner'], columns='Churn', aggfunc='mean')
