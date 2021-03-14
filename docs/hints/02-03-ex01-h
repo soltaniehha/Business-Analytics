@@ -1,0 +1,2 @@
+bmi = np.round(np_weight_kg / np_height_m ** 2, 0)
+print(bmi)
