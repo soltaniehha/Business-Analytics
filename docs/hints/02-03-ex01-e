@@ -1,0 +1,2 @@
+np_weight_kg = np_weight_lb / 2.2
+print(np_weight_kg)
