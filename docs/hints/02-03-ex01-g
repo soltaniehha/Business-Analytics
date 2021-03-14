@@ -1,0 +1,3 @@
+plt.scatter(np_weight_kg, np_height_m)
+plt.xlabel("Weight(Kg)")
+plt.ylabel("Height(m)")
