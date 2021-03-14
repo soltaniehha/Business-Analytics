@@ -20,5 +20,6 @@ References:
 
 * [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas
+* [The Analytics Edge](https://www.dynamic-ideas.com/books/kgsni67q285zmpdit17ix1cwbnuqac) by Dimitris Bertsimas, Allison K. O'Hair, and William R. Pulleyblank
 * [Spark: The Definitive Guide, 2018](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Matei Zaharia, Bill Chambers.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
