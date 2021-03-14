@@ -1,0 +1,2 @@
+plt.style.use('ggplot')
+players.plot.scatter(x='weight', y='height');
