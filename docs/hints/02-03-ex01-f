@@ -1,0 +1,3 @@
+%matplotlib inline
+import matplotlib.pyplot as plt
+plt.plot(np_weight_kg, np_height_m, 'o');

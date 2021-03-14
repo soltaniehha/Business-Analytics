@@ -1,0 +1,4 @@
+quotient = 67432 // 98
+remainder = 67432 % 98
+print('Quotient of 67432/98:', quotient)
+print('Remainder of 67432/98:', remainder)

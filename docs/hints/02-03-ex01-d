@@ -1,0 +1,2 @@
+np_height_m = np_height_in * 2.54 / 100
+print(np_height_m)
