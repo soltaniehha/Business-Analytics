@@ -1,0 +1,2 @@
+sns.distplot((sales_vs_list[(sales_vs_list < 20) & (sales_vs_list > -20)]), kde=False, bins=30, color="green")
+sns.despine()
