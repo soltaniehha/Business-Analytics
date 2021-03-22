@@ -1,0 +1,1 @@
+print("There are {} rows and {} columns.".format(houses.shape[0], houses.shape[1]))

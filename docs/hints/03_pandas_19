@@ -1,0 +1,5 @@
+import matplotlib.pyplot as plt
+sns.distplot(df['SalesClosePrice'], kde=False, bins=30)
+plt.xticks(rotation=20)
+plt.title("Distribution of Closing Price")
+sns.despine()

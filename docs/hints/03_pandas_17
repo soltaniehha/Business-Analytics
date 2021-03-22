@@ -1,0 +1,1 @@
+len(sales_vs_list[abs(sales_vs_list) < 1])

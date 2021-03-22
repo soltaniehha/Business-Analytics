@@ -1,0 +1,1 @@
+sales_vs_list[sales_vs_list > 20]
