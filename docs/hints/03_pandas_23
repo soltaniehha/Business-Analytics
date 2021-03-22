@@ -1,0 +1,1 @@
+print("There are {} missing values in RoomArea1".format(df['RoomArea1'].isnull().sum()))
