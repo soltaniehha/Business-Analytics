@@ -1,0 +1,1 @@
+sns.lmplot(x="LISTPRICE", y="SalesClosePrice", data=df)
