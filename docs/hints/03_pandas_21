@@ -1,0 +1,4 @@
+sns.violinplot(x="SchoolDistrictNumber", y="SalesClosePrice", data=df)
+plt.xticks(rotation=90)
+plt.title("Distribution of Closing Price for School Districts")
+sns.despine()
