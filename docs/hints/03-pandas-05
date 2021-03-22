@@ -1,0 +1,1 @@
+print("There are {} rows and {} columns.".format(df.shape[0], df.shape[1]))
