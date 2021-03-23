@@ -1,0 +1,1 @@
+df2 = df.dropna()
