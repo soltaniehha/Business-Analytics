@@ -1,0 +1,4 @@
+sns.boxplot(x="City", y="sales_vs_list", data=df)
+plt.xticks(rotation=90)
+plt.title("Distribution of Sales vs. Listing Price (%) for Different Cities")
+sns.despine()
