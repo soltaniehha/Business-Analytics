@@ -1,0 +1,4 @@
+def filter_func(x):
+    return x['SalesClosePrice'].mean() < 250000
+
+df_inexpensive_zips = df.groupby('PostalCode').filter(filter_func)
