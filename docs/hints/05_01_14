@@ -1,0 +1,1 @@
+df.groupby('PostalCode')['SalesClosePrice'].agg(['mean', 'count'])
