@@ -1,0 +1,2 @@
+roof_summ = df.groupby('ROOF').size().sort_values(ascending=False)
+roof_summ.head(10)
