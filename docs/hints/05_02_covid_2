@@ -1,0 +1,6 @@
+covid_7_day = covid['deaths'].rolling(7)
+
+covid['deaths'].plot(alpha=0.4, style='-')
+covid_7_day.mean().plot(style='--')
+
+plt.legend(['Daily deaths', '7-day moving average'], loc='upper left');
