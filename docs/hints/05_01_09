@@ -1,0 +1,1 @@
+df.drop('RoomArea1', axis=1, inplace=True)
