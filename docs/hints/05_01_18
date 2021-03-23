@@ -1,0 +1,4 @@
+df_inexpensive_zips['SalesPriceNormalized'] = \
+  df_inexpensive_zips.groupby('PostalCode')[['SalesClosePrice']].transform(lambda x: round(x/max(x),2))
+
+df_inexpensive_zips.head(3)
