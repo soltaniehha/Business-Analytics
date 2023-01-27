@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soltaniehha/Business-Analytics.git/master)
 
-# Business-Analytics
+# Business-Analytics 
 Course material for **Business Analytics in Practice** - IS833
 
 This repository is comprised of notebooks, datasets, and other related materials for Business Analytics in Practice (IS833), an introductory course to data science in Python.
