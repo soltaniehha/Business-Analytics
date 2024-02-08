@@ -1,1 +1,3 @@
+# Since df2 is a mirror of df, modifying df2 could also change df values. To be more explicit, we will first make a separate copy of df2 before modifying it. This way, we won't receive a warning and won't risk unintentionally changing some other values in df. 
+df2 = df2.copy()
 df2[['ROOF']] = df2[['ROOF']].fillna("Asphalt Shingles")
